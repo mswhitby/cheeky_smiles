@@ -39,4 +39,4 @@ Total: $245.00
 
 [Starter Code](https://onlinegdb.com/btIU7SKMb)
 
-[Period 1](https://onlinegdb.com/VFJ8kPXAO)
+[Code Sandbox](https://codesandbox.io/p/github/mswhitby/cheeky_smiles/main?file=%2FREADME.md&workspace=%257B%2522activeFileId%2522%253A%2522clduk8lek0000fsgzdo9rdo0d%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522spaces%2522%253A%257B%2522clduk8nb2000x356h7alc1kcr%2522%253A%257B%2522key%2522%253A%2522clduk8nb2000x356h7alc1kcr%2522%252C%2522name%2522%253A%2522Terminal%2522%252C%2522devtools%2522%253A%255B%257B%2522type%2522%253A%2522TERMINAL%2522%252C%2522shellId%2522%253A%2522cldukdbi90005fsgz0c8whuuj%2522%252C%2522key%2522%253A%2522cldukdbgn00cv356hddpv0sqz%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D%257D%252C%2522currentSpace%2522%253A%2522clduk8nb2000x356h7alc1kcr%2522%252C%2522spacesOrder%2522%253A%255B%2522clduk8nb2000x356h7alc1kcr%2522%255D%252C%2522hideCodeEditor%2522%253Afalse%257D))
